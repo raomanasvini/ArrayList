@@ -22,7 +22,7 @@ namespace NonGenericCollectionEg
             }
 
             Console.WriteLine("Popped: {0}", s.Pop());
-            Console.ReadLine("peek: {0}", s.Push Peek());
+            
 
             foreach (object item in s)
             {
