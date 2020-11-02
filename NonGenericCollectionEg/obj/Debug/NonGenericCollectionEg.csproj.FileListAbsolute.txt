@@ -1,0 +1,7 @@
+C:\C#Assign\ArrayList\NonGenericCollectionEg\obj\Debug\NonGenericCollectionEg.csprojAssemblyReference.cache
+C:\C#Assign\ArrayList\NonGenericCollectionEg\obj\Debug\NonGenericCollectionEg.csproj.CoreCompileInputs.cache
+C:\C#Assign\ArrayList\NonGenericCollectionEg\bin\Debug\NonGenericCollectionEg.exe.config
+C:\C#Assign\ArrayList\NonGenericCollectionEg\bin\Debug\NonGenericCollectionEg.exe
+C:\C#Assign\ArrayList\NonGenericCollectionEg\bin\Debug\NonGenericCollectionEg.pdb
+C:\C#Assign\ArrayList\NonGenericCollectionEg\obj\Debug\NonGenericCollectionEg.exe
+C:\C#Assign\ArrayList\NonGenericCollectionEg\obj\Debug\NonGenericCollectionEg.pdb
